@@ -1,4 +1,4 @@
-#su
+# su
 
 > Change user or become root user
 
