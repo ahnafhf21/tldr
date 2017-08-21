@@ -2,19 +2,19 @@
 
 > Package management utility for Slackware
 
-- Synchronize list of packages and versions available
+- Synchronize list of packages and versions available:
 
 `slackpkg update`
 
-- Install new package
+- Install new package:
 
 `slackpkg install {{package}}`
 
-- Remove a package
+- Remove a package:
 
 `slackpkg remove {{package}]`
 
-- Find a package
+- Find a package:
 
 `slackpkg search {{package}}`
 
