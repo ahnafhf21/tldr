@@ -1,6 +1,6 @@
 # slackpkg
 
-> Package management utility for Slackware
+> Package management utility for Slackware.
 
 - Synchronize list of packages and versions available:
 
