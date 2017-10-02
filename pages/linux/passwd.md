@@ -12,5 +12,5 @@
 
 - Change other user password:
 
-`passwd {{username}}`
+`sudo passwd {{username}}`
 
