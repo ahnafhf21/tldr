@@ -1,16 +1,16 @@
 # passwd
 
+> User's password changes utility.
 
-> Change User Password.
+- Change root password:
 
-#### To change the root password:
+`sudo passwd root`
 
-    sudo passwd
+- Change logged in user password:
 
-#### To change logged in user password:
+`passwd`
 
-    passwd
+- Change other user password:
 
-#### To change other users password:
+`passwd {{username}}`
 
-    sudo passwd USERNAME
